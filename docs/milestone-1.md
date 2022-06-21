@@ -2,7 +2,7 @@
 
 2. Keep in Mind
 
-3. # Team Overview
+3. ## Team Overview
    Swetha Hariharan- swetha1612
    
 4. ## Application Overview
