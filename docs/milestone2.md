@@ -13,3 +13,5 @@
 
 <img width="753" alt="Screen Shot 2022-07-22 at 10 52 44 PM" src="https://user-images.githubusercontent.com/87146701/180592624-24e47f4b-1c59-4454-b242-654c1a6240b0.png">
 ^User data input area for recommendations
+
+Link for video: https://drive.google.com/file/d/1H-ZFq-9mXD168N-57lxPvQVsYIElGlCE/view
