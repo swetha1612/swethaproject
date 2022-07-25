@@ -1,0 +1,24 @@
+{
+  "name": "326-final-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keepinmind.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swetha1612/326-final-project.git"
+  },
+  "engines": {
+    "node": "16.15.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swetha1612/326-final-project/issues"
+  },
+  "homepage": "https://github.com/swetha1612/326-final-project#readme"
+}
+  
