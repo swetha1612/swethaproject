@@ -1,3 +1,6 @@
+const http = require("http");
+const host = 'localhost';
+const port = 3000;
 let slideIndex = 1;
 showSlides(slideIndex);
 
